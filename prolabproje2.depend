@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589737576 source:c:\users\aybuk\onedrive\masaüstü\codeblocks\prolabproje2\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+
